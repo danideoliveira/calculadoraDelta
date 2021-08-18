@@ -27,3 +27,13 @@ input {
     border: gray 1px solid;
     text-align: right;
 }
+
+a {
+    color:black;
+    font-size: 10pt;
+    text-decoration: none;
+}
+
+p#voltar {
+    text-align: center;
+}
